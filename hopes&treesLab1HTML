@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel = 'stylesheet' href = 'cssLab1.css'
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hopes and trees</title>
+    <meta author = 'Alaina'
+</head>
+<body>
+    <h1> hopes and trees
+        <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ash_Tree_-_geograph.org.uk_-_590710.jpg/220px-Ash_Tree_-_geograph.org.uk_-_590710.jpg'> 
+    <h2> Handcrafted woodwork</h2>
+    <h3> Partial proceeds donated to Unangan (Aleut) communities of Alaska. </h3>
+    <h4> Woods used: Walnut, maple, osage orange, cherry, red cedar, oak, padauk,  </h4>
+    
+    <p> Aang, welcome to my shop! </p>
+
+    <img class = 'bigTable' src = '797CC163-B3BF-4EC0-B23E-516C3CF707C9.JPG' alt = "table">
+    
+   
+    <a href = 'https://www.google.com' target = 'blank'> <button>shop</button> </a>
+    <br/>
+    <input type = = 'text' placeholder = 'search' />
+
+</body>
+</html>

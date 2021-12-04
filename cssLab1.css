@@ -1,0 +1,166 @@
+
+
+
+p {
+    font-size: 30px;
+    color: rgb(78, 40, 40)
+}
+
+img {
+    height: 10vh;
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(105, 70, 70);
+    position: relative;
+    top: -80px;
+}
+
+ .bigTable {
+    height: 50vh;
+    
+} 
+
+body {
+    text-align: center;
+    background-color: rgb(219, 196, 152)
+}   
+
+.smallBowl {
+    height: 50vh;
+}
+
+/* /.flex-container {
+    display: flex;
+    
+}
+
+ .flex-item {
+    height: 50vh;
+    
+}  */
+
+#backgroundPic{
+    background-image: url("https://images.unsplash.com/photo-1567080586917-e6ab6aa0df85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bHVtYmVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+    background-repeat: repeat-x;
+    height: 20vh;
+    z-index: -5;
+}
+
+/* #backgroundPic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50px;
+  } */
+
+
+
+html {
+  overflow: -moz-scrollbars-none;
+  scrollbar-width: none;
+}
+
+/* body {
+  background: #171414;
+  font-family: "Courier New", Courier, monospace;
+  color: #ffffff;
+  padding: 5% 15%;
+} */
+
+/* p {
+  font-size: 1.8rem;
+}
+
+p:first-of-type {
+  margin-top: 60px;
+} */
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+#progressBarContainer {
+    position: fixed;
+    z-index: 10;
+    background: rgba(255, 255, 255, 0.05);
+  }
+  
+  
+  #progressBar {
+    position: absolute;
+    will-change: transform, opacity;
+    background: linear-gradient(to top, violet, red);
+    transform-origin: top center;
+    transform: scale(1, 0);
+    opacity: 0;
+  }
+  
+  #progressBarContainer,
+  #progressBar {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 10px;
+  }
+
+
+
+
+
+
+  .flex-con {
+    
+    justify-content: space-evenly;
+    position:relative;
+    bottom: 140px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    margin: 15px 20px ;
+    /* position: relative; */
+  
+  }
+
+
+ol {
+    display:flex;
+    font-size: 25px;
+    justify-content: space-evenly;
+    color: white;
+}
+
+.button{
+    display: inline;
+    color: white;
+}
+
+
+a:link, a:visited {
+    background-color: white;
+    color: black;
+    border: 2px solid rgb(148, 79, 47);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+
+  }
+  a:hover{
+      color:rgb(240, 160, 146)
+  }
+    
+
+/* 
+  display: block;
+    width: 50vw;
+    min-height: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid rgb(107, 95, 55);
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 0 0 8px 0 rgba(0,0,0,0.25); */
