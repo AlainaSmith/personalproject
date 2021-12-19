@@ -12,7 +12,7 @@
     <h1> hopes and trees
         <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ash_Tree_-_geograph.org.uk_-_590710.jpg/220px-Ash_Tree_-_geograph.org.uk_-_590710.jpg'> 
     <h2> Handcrafted woodwork</h2>
-    <h3> Partial proceeds donated to Unangan (Aleut) communities of Alaska. </h3>
+    <h3> Partial proceeds donated to  Unangan (Aleut) communities of Alaska. </h3>
     <h4> Woods used: Walnut, maple, osage orange, cherry, red cedar, oak, padauk,  </h4>
     
     <p> Aang, welcome to my shop! </p>
@@ -21,8 +21,13 @@
     
    
     <a href = 'https://www.google.com' target = 'blank'> <button>shop</button> </a>
-    <br/>
-    <input type = = 'text' placeholder = 'search' />
+    <br>
+    <input type = 'text' placeholder = 'search' />
+    <span class="icon icon__cart " aria-label="Open Cart"></span>
 
+
+    
 </body>
 </html>
+
+
